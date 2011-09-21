@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://staging.tokbox.com/${1:v0.91}/js/TB.min.js" type="text/javascript" charset="${2:utf-8}"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>OpenTok Staging src</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scriptsrc</string>
+	<key>uuid</key>
+	<string>1D572155-BAD7-41F8-91F7-162D6C4FE89F</string>
+</dict>
+</plist>

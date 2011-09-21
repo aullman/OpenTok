@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>OpenTok</string>
+	<key>ordering</key>
+	<array>
+		<string>61DCC7F3-6AFD-4025-B39B-60E986B2125A</string>
+		<string>4C0A37CE-F8A8-4FAC-946D-2F62D9C0F708</string>
+		<string>1D572155-BAD7-41F8-91F7-162D6C4FE89F</string>
+		<string>C1518EF0-695E-4823-8D46-01E88B3F31E1</string>
+	</array>
+	<key>uuid</key>
+	<string>03905E60-D530-42AF-9EDE-DF088D76B7CE</string>
+</dict>
+</plist>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>OpenTok Completions</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>settings</key>
+	<dict>
+		<key>completions</key>
+		<array>
+			<string>addEventListener</string>
+			<string>cleanup</string>
+			<string>closeArchive</string>
+			<string>connect</string>
+			<string>disconnect</string>
+			<string>forceDisconnect</string>
+			<string>forceUnpublish</string>
+			<string>getSubscribersForStream</string>
+			<string>getPublisherForStream</string>
+			<string>publish</string>
+			<string>loadArchive</string>
+			<string>removeEventListener</string>
+			<string>startRecording</string>
+			<string>stopRecording</string>
+			<string>signal</string>
+			<string>subscribe</string>
+			<string>unpublish</string>
+			<string>unsubscribe</string>
+			<string>startPlayback</string>
+			<string>stopPlayback</string>
+			<string>detectDevices</string>
+			<string>displayPanel</string>
+			<string>removeEventListener</string>
+			<string>removePanel</string>
+			<string>getImgData</string>
+			<string>loadArchive</string>
+			<string>disableMicrophone</string>
+			<string>enableMicrophone</string>
+			<string>getEchoCancellationMode</string>
+			<string>getMicrophoneGain</string>
+			<string>getStyle</string>
+			<string>publishAudio</string>
+			<string>publishVideo</string>
+			<string>setMicrophoneGain</string>
+			<string>setStyle</string>
+			<string>saveArchive</string>
+			<string>displayPlayer</string>
+			<string>displayRecorder</string>
+			<string>removePlayer</string>
+			<string>removeRecorder</string>
+			<string>getAudioVolume</string>
+			<string>setAudioVolume</string>
+			<string>subscribeToAudio</string>
+			<string>subscribeToVideo</string>
+			<string>checkSystemRequirements</string>
+			<string>initDeviceManager</string>
+			<string>initSession</string>
+			<string>log</string>
+			<string>setLogLevel</string>
+			<string>initRecorderManager</string>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>4C0A37CE-F8A8-4FAC-946D-2F62D9C0F708</string>
+</dict>
+</plist>

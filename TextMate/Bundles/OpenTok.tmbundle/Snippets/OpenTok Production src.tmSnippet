@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://static.opentok.com/${1:v0.91}/js/TB.min.js" type="text/javascript" charset="${2:utf-8}"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>OpenTok Production src</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scriptsrc</string>
+	<key>uuid</key>
+	<string>C1518EF0-695E-4823-8D46-01E88B3F31E1</string>
+</dict>
+</plist>
