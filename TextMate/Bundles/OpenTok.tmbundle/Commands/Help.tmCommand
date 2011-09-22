@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>. "$TM_SUPPORT_PATH/lib/html.sh"
+
+redirect `cat "$TM_BUNDLE_PATH/Support/data/help_index.txt" | grep $TM_CURRENT_WORD`
+
+#echo $URL
+#redirect "$URL"
+
+#if [ $TM_CURRENT_WORD = "initSession" ]; then
+#	echo "Hello"
+#else
+#	redirect "http://www.google.com/search?rls=en&amp;q=$TM_CURRENT_WORD+site:tokbox.com"
+#fi</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^h</string>
+	<key>name</key>
+	<string>Help</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>F2CF17EB-3611-485E-AC6D-2441EAF920BE</string>
+</dict>
+</plist>
