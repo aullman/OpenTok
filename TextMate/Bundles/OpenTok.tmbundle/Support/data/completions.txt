@@ -44,6 +44,7 @@ subscribeToAudio(value);
 subscribeToVideo(value);
 checkSystemRequirements();
 initDeviceManager(apiKey);
+initRecorderManager(apiKey);
 initSession(sessionId);
 log(message);
 setLogLevel(logLevel);

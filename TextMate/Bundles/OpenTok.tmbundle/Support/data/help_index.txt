@@ -1,6 +1,7 @@
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#initSession
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#initDeviceManager
+http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#initRecorderManager
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#checkSystemRequirements
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#setLogLevel
 http://www.tokbox.com/opentok/api/tools/js/documentation/api/TB.html#log
