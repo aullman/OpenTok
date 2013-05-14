@@ -48,3 +48,7 @@ initRecorderManager(apiKey);
 initSession(sessionId);
 log(message);
 setLogLevel(logLevel);
+initPublisher(apiKey, replaceElementId, properties);
+upgradeSystemRequirements();
+on(eventType, listener);
+off(type, listener);

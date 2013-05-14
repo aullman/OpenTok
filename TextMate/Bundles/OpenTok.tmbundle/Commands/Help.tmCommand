@@ -7,7 +7,11 @@
 	<key>command</key>
 	<string>. "$TM_SUPPORT_PATH/lib/html.sh"
 
-redirect `cat "$TM_BUNDLE_PATH/Support/data/help_index.txt" | grep $TM_CURRENT_WORD`
+url=`cat "$TM_BUNDLE_PATH/Support/data/help_index.txt" | grep $TM_CURRENT_WORD`
+
+[[ -n $url ]] &amp;&amp; redirect $url
+
+redirect "http://www.google.com/search?rls=en&amp;q=$TM_CURRENT_WORD+site:tokbox.com"
 
 #echo $URL
 #redirect "$URL"
